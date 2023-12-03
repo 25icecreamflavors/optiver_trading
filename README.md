@@ -11,9 +11,11 @@ In the last ten minutes of the Nasdaq exchange trading session, market makers li
 In this competition, you are challenged to develop a model capable of predicting the closing price movements for hundreds of Nasdaq listed stocks using data from the order book and the closing auction of the stock. Information from the auction can be used to adjust prices, assess supply and demand dynamics, and identify trading opportunities.
 
 # Done
+- EDA on features and data
+- Learn competition theory and create ideas for the solution
 - Add folds
 - Create a baseline solution (gradient boosting on basic features)
-- 
+
 # Future Plan
 
 - Create additional features
