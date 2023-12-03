@@ -10,9 +10,13 @@ In the last ten minutes of the Nasdaq exchange trading session, market makers li
 
 In this competition, you are challenged to develop a model capable of predicting the closing price movements for hundreds of Nasdaq listed stocks using data from the order book and the closing auction of the stock. Information from the auction can be used to adjust prices, assess supply and demand dynamics, and identify trading opportunities.
 
-# Plan
-
+# Done
 - Add folds
-- Create features
-- Choose features
-- Try deep learning models
+- Create a baseline solution (gradient boosting on basic features)
+- 
+# Future Plan
+
+- Create additional features
+- Choose features by importance
+- Try deep learning models (for sequences), for example, small transformers or LSTMs
+- Try 2 step solution: firstly classify, if the target is negative or positive, which means that Optiver prediction was in the right direction or not; secondly, use seprate regressor model to predict the value. 
