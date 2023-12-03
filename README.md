@@ -2,6 +2,10 @@
 
 https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview
 
+# Link to the great notebook with the trading theory required for the competition
+
+https://www.kaggle.com/code/tomforbes/optiver-trading-at-the-close-introduction
+
 # Competition description
 
 Each trading day on the Nasdaq Stock Exchange concludes with the Nasdaq Closing Cross auction. This process establishes the official closing prices for securities listed on the exchange. These closing prices serve as key indicators for investors, analysts and other market participants in evaluating the performance of individual securities and the market as a whole.
