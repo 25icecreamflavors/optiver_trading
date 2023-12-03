@@ -12,6 +12,10 @@ In this competition, you are challenged to develop a model capable of predicting
 
 # Target description
 
+Firstly, wap - The weighted average price in the non-auction book: 
+
+$\frac{ {BidPrice * AskSize + AskPrice * BidSize}}{BidSize + AskSize}$
+
 The 60 second future move in the wap of the stock, less the 60 second future move of the synthetic index. Only provided for the train set.
 The synthetic index is a custom weighted index of Nasdaq-listed stocks constructed by Optiver for this competition.
 
